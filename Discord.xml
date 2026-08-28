@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<news>
-  <entry>
-    <date>2025-01-01 00:00:00Z</date>
-    <title>Discord</title>
-    <text></text>
-    <link>https://discord.gg/mp9thbbjVE</link>
-    <imagerelpath></imagerelpath>
-  </entry>
-</news>
+<!--Local NewsWindow source generated inside this mod. Keep the Upload folder with the mod.-->
+<eihwaz.de>
+	<entry>
+		<link>https://discord.gg/invite/mp9thbbjVE</link>
+		<date>2026-08-28 19:01:46Z</date>
+		<title>Server Panel Deluxe</title>
+		<text></text>
+		<imagerelpath></imagerelpath>
+	</entry>
+</eihwaz.de>
